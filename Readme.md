@@ -51,16 +51,21 @@ Connect your Yashboard.
 
 ## Bill of Materials (BOM)
 
-| Component | Source | Price (INR) | Price (USD) |
-| :--- | :--- | :--- | :--- |
-| [Arduino Nano R3 Development Board Compatible](https://robocraze.com/products/uno-smd-board-compatible-with-arduino?_pos=1&_sid=90bf6cff1&_ss=r) | Robocraze | 200₹ | $2.10 |
-| | $0.094 |
-| [1k Ohm Resistor - (Pack of 10)](https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r) | Robocraze | 12₹ | $0.13 |
-| | Robocraze | ₹ | $ |
-| | Robocraze | ₹ | $ |
-| | Robocraze | ₹ | $ |
-| | Robocraze | ₹ | $ |
-| PCB | EasyEDA | 1491.37₹ | $15.63 |
-| [Noel 7 in 1 Soldering Iron Kit 25W Gold](https://robocraze.com/products/noel-7-in-1-soldering-iron-kit-25w-gold?_pos=1&_sid=eda6e1cf0&_ss=r) *(Optional)* | Robocraze | 490₹ | $5.14 |
----
+| Component | Source | Price (INR) | Price (USD) | Link |
+| :--- | :--- | :---: | :---: | :---: |
+| **Arduino Nano R3 Development Board Compatible** | Robocraze | ₹200.00 | $2.10 | [Link](https://robocraze.com/products/uno-smd-board-compatible-with-arduino?_pos=1&_sid=90bf6cff1&_ss=r) |
+| **1k Ohm Resistor (Pack of 10)** | Robocraze | ₹12.00 | $0.13 | [Link](https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r) |
+| **0.96 Inch OLED Display Module (SPI/I2C 4-Pin, Blue)** | Robocraze | ₹165.00 | $1.73 | - |
+| **ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32 Board** | Robocraze | ₹489.00 | $5.11 | - |
+| **USB Type C Vertical Female Breakout - 7Semi** | Robocraze | ₹75.00 | $0.78 | - |
+| **eSUN 1.75mm PLA+ 3D Printing Filament (Black, 1kg)** | Robocraze | ₹1,349.00 | $14.11 | - |
+| **PCB Fabricated Board** | EasyEDA | ₹2,632.52 | $27.53 | - |
+| **M5 StickC Speaker Hat (PAM8303)** | - | ₹505.00 | $5.28 | - |
+| **8 Ohm 0.5W Speaker** | - | ₹54.00 | $0.56 | - |
+| **Tilt Sensor / Vibration Switch Module for Arduino** | - | ₹46.00 | $0.48 | - |
+| **DUROCK MX Hotswap Sockets (Orange, 110pcs)** | - | ₹1,242.00 | $12.99 | - |
+| **Gateron Milky Yellow Pro V2 Switches (72pcs, 5-Pin, 50gf)** | Keyboard Store | ₹1,624.45 | $16.99 | - |
+| **EasyEDA PCB (Custom Board)** | EasyEDA | ₹900.77 | $9.42 | - |
+| **Noel 7 in 1 Soldering Iron Kit (25W Gold)** | Robocraze | ₹490.00 | $5.14 | [Link](https://robocraze.com/products/noel-7-in-1-soldering-iron-kit-25w-gold?_pos=1&_sid=eda6e1cf0&_ss=r) |
+| **TOTAL** | **—** | **₹9,784.74** | **$102.35** | **—** |
 
