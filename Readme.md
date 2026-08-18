@@ -69,3 +69,7 @@ Connect your Yashboard.
 | **Noel 7 in 1 Soldering Iron Kit (25W Gold)** | Robocraze | ₹490.00 | $5.14 | [Link](https://robocraze.com/products/noel-7-in-1-soldering-iron-kit-25w-gold?_pos=1&_sid=eda6e1cf0&_ss=r) |
 | **TOTAL** | **—** | **₹9,784.74** | **$102.35** | **—** |
 
+
+<img width="506" height="509" alt="{F825251C-DD93-47AF-B1B7-B5CB71B674A5}" src="https://github.com/user-attachments/assets/06bf164d-f994-4705-b850-fdd1764e54f0" />
+
+<img width="892" height="460" alt="{98A01A9B-60ED-40FC-9F9B-977AF2E66F1B}" src="https://github.com/user-attachments/assets/8b66e977-f6f7-4735-8167-c925c18e2880" />
