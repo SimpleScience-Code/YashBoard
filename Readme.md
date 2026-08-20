@@ -2,7 +2,7 @@
 
 Hey there! I see you have stumbled upon my README.MD, prepare to be surprised. 
 
----
+--- 
 
 
 ###  The Problem & Inspiration
