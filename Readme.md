@@ -58,7 +58,6 @@ Connect your Yashboard.
 | **0.96 Inch OLED Display Module (SPI/I2C 4-Pin, Blue)** | Robocraze | ₹165.00 | $1.73 | - |
 | **ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32 Board** | Robocraze | ₹489.00 | $5.11 | - |
 | **USB Type C Vertical Female Breakout - 7Semi** | Robocraze | ₹75.00 | $0.78 | - |
-| **eSUN 1.75mm PLA+ 3D Printing Filament (Black, 1kg)** | Robocraze | ₹1,349.00 | $14.11 | - |
 | **PCB Fabricated Board** | EasyEDA | ₹2,632.52 | $27.53 | - |
 | **M5 StickC Speaker Hat (PAM8303)** | - | ₹505.00 | $5.28 | - |
 | **8 Ohm 0.5W Speaker** | - | ₹54.00 | $0.56 | - |
