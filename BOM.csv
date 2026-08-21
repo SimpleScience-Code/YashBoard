@@ -5,7 +5,7 @@ Component,Source,Price (INR),Price (USD),Link,Reason
 "ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32 Development Board",Robocraze,489.00,5.11,The proccessor which will control the rage-quit sensors
 "USB Type C Vertical Female Breakout -7Semi",Robocraze,75.00,0.78,To power the Arduino
 "PCB Fabricated Board",EasyEDA,2632.52,27.53,Main PCB for the keyboard
-"M5 StickC Speaker Hat (PAM8303)",N/A,505.00,5.28, To play sound cues or to play inspirational quotes (EX:- "No one can use you if you are useless")
+"M5 StickC Speaker Hat (PAM8303)",N/A,505.00,5.28,To play sound cues or to play inspirational quotes (EX:- "No one can use you if you are useless")
 "8 Ohm 0.5W Speaker",N/A,54.00,0.56,Speaker so that I can hear the quotes
 "Tilt Sensor Vibration Alarm Vibration Switch Module for Arduino",N/A,46.00,0.48,To detect when you slam the table
 "DUROCK MX Hotswap Sockets - Mechanical Keyboard Switches Hot-Swap PCB Sockets (Orange, 110pcs)",N/A,1242.00,12.99,Sockets to hold the switches
