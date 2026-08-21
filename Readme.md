@@ -52,7 +52,7 @@ Connect your Yashboard.
 ## Bill of Materials (BOM)
 
 | Component | Source | Price (INR) | Price (USD) | Link | Reason | 
-| :--- | :--- | :---: | :---: | :---: |
+| :--- | :--- | :---: | :---: | :---: | :---: |
 | **Arduino Nano R3 Development Board Compatible** | Robocraze | ₹200.00 | $2.10 | [Link](https://robocraze.com/products/uno-smd-board-compatible-with-arduino?_pos=1&_sid=90bf6cff1&_ss=r) | The main chip, which will be handling all the keyboard's inputs |
 | **1k Ohm Resistor (Pack of 10)** | Robocraze | ₹12.00 | $0.13 | [Link](https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r) | Resistors to protect my components |
 | **0.96 Inch OLED Display Module (SPI/I2C 4-Pin, Blue)** | Robocraze | ₹165.00 | $1.73 | - | To show quotes and calm you down before you rage-quit |
