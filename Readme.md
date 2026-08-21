@@ -47,26 +47,26 @@ Connect your Yashboard.
 * Then place the top cover and attach it with some glue
 * Then place magnets into the dedicated hole of the shell.
 * Then attach the module of your choice!
-* Start placing the keys one by one ( already gave some inspiration in the model )
+* Start placing the keys one by one ( already gave some inspiration in the model)
 
 ## Bill of Materials (BOM)
 
-| Component | Source | Price (INR) | Price (USD) | Link |
+| Component | Source | Price (INR) | Price (USD) | Link | Reason | 
 | :--- | :--- | :---: | :---: | :---: |
-| **Arduino Nano R3 Development Board Compatible** | Robocraze | ₹200.00 | $2.10 | [Link](https://robocraze.com/products/uno-smd-board-compatible-with-arduino?_pos=1&_sid=90bf6cff1&_ss=r) |
-| **1k Ohm Resistor (Pack of 10)** | Robocraze | ₹12.00 | $0.13 | [Link](https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r) |
-| **0.96 Inch OLED Display Module (SPI/I2C 4-Pin, Blue)** | Robocraze | ₹165.00 | $1.73 | - |
-| **ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32 Board** | Robocraze | ₹489.00 | $5.11 | - |
-| **USB Type C Vertical Female Breakout - 7Semi** | Robocraze | ₹75.00 | $0.78 | - |
-| **PCB Fabricated Board** | EasyEDA | ₹2,632.52 | $27.53 | - |
-| **M5 StickC Speaker Hat (PAM8303)** | - | ₹505.00 | $5.28 | - |
-| **8 Ohm 0.5W Speaker** | - | ₹54.00 | $0.56 | - |
-| **Tilt Sensor / Vibration Switch Module for Arduino** | - | ₹46.00 | $0.48 | - |
-| **DUROCK MX Hotswap Sockets (Orange, 110pcs)** | - | ₹1,242.00 | $12.99 | - |
-| **Gateron Milky Yellow Pro V2 Switches (72pcs, 5-Pin, 50gf)** | Keyboard Store | ₹1,624.45 | $16.99 | - |
-| **EasyEDA PCB (Custom Board)** | EasyEDA | ₹900.77 | $9.42 | - |
-| **Noel 7 in 1 Soldering Iron Kit (25W Gold)** | Robocraze | ₹490.00 | $5.14 | [Link](https://robocraze.com/products/noel-7-in-1-soldering-iron-kit-25w-gold?_pos=1&_sid=eda6e1cf0&_ss=r) |
-| **TOTAL** | **—** | **₹9,784.74** | **$102.35** | **—** |
+| **Arduino Nano R3 Development Board Compatible** | Robocraze | ₹200.00 | $2.10 | [Link](https://robocraze.com/products/uno-smd-board-compatible-with-arduino?_pos=1&_sid=90bf6cff1&_ss=r) | The main chip, which will be handling all the keyboard's inputs |
+| **1k Ohm Resistor (Pack of 10)** | Robocraze | ₹12.00 | $0.13 | [Link](https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r) | Resistors to protect my components |
+| **0.96 Inch OLED Display Module (SPI/I2C 4-Pin, Blue)** | Robocraze | ₹165.00 | $1.73 | - | To show quotes and calm you down before you rage-quit |
+| **ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32 Board** | Robocraze | ₹489.00 | $5.11 | - | The proccessor which will control the rage-quit sensors|
+| **USB Type C Vertical Female Breakout - 7Semi** | Robocraze | ₹75.00 | $0.78 | - | To power the Arduino |
+| **PCB Fabricated Board** | EasyEDA | ₹2,632.52 | $27.53 | - | Main pcb for the keyboard | 
+| **M5 StickC Speaker Hat (PAM8303)** | - | ₹505.00 | $5.28 | - | To play sound cues or to play inspirational quotes (EX:- "No one can use you if you are useless") |
+| **8 Ohm 0.5W Speaker** | - | ₹54.00 | $0.56 | - | Speaker so that I can hear the quotes |
+| **Tilt Sensor / Vibration Switch Module for Arduino** | - | ₹46.00 | $0.48 | - | To detect when you slam the table |
+| **DUROCK MX Hotswap Sockets (Orange, 110pcs)** | - | ₹1,242.00 | $12.99 | - | Sockets to hold the switches |
+| **Gateron Milky Yellow Pro V2 Switches (72pcs, 5-Pin, 50gf)** | Keyboard Store | ₹1,624.45 | $16.99 | - | the switches for typing |
+| **EasyEDA PCB (Custom Board)** | EasyEDA | ₹900.77 | $9.42 | - | Secondary PCB for the screen and sensors |
+| **Noel 7 in 1 Soldering Iron Kit (25W Gold)** | Robocraze | ₹490.00 | $5.14 | [Link](https://robocraze.com/products/noel-7-in-1-soldering-iron-kit-25w-gold?_pos=1&_sid=eda6e1cf0&_ss=r) | To solder all that in|
+| **TOTAL** | **—** | **₹9,784.74** | **$102.35** | **—** | Total | 
 
 
 <img width="506" height="509" alt="{F825251C-DD93-47AF-B1B7-B5CB71B674A5}" src="https://github.com/user-attachments/assets/06bf164d-f994-4705-b850-fdd1764e54f0" />
