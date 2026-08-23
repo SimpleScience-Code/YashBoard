@@ -1,6 +1,6 @@
 # Custom Keyboard Project
 
-Hey there! I see you have stumbled upon my README.MD, prepare to be surprised. Also, this is the best keyboard you have ever seen in your life!
+Hey there! I see you have stumbled upon my README.MD, this is for a program called Stardance by Hack Club. Check it out! (https://stardance.hackclub.com/projects/34484) Prepare to be surprised. Also, this is the best keyboard you have ever seen in your life!
 
 --- 
 
