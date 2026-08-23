@@ -1,6 +1,6 @@
 # Custom Keyboard Project
 
-Hey there! I see you have stumbled upon my README.MD, prepare to be surprised. 
+Hey there! I see you have stumbled upon my README.MD, prepare to be surprised. Also, this is the best keyboard you have ever seen in your life!
 
 --- 
 
@@ -27,7 +27,7 @@ To build this project, you will need the following components:
 * **Hotswaps**: kalih hotswap
 * **Display Screen**: OLED display 
 * **Physical Input**: Creamy switches
-* **Connection**: USB cable to connect to the computer
+* **Connection**: USB cable to connect to the computer 
 
 ---
 
