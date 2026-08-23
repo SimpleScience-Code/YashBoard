@@ -55,13 +55,13 @@ Connect your Yashboard.
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **Arduino Nano R3 Development Board Compatible** | Robocraze | ₹200.00 | $2.10 | [Link](https://robocraze.com/products/uno-smd-board-compatible-with-arduino?_pos=1&_sid=90bf6cff1&_ss=r) | The main chip, which will be handling all the keyboard's inputs |
 | **1k Ohm Resistor (Pack of 10)** | Robocraze | ₹12.00 | $0.13 | [Link](https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r) | Resistors to protect my components |
-| **0.96 Inch OLED Display Module (SPI/I2C 4-Pin, Blue)** | Robocraze | ₹165.00 | $1.73 | - | To show quotes and calm you down before you rage-quit |
-| **ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32 Board** | Robocraze | ₹489.00 | $5.11 | - | The proccessor which will control the rage-quit sensors|
-| **USB Type C Vertical Female Breakout - 7Semi** | Robocraze | ₹75.00 | $0.78 | - | To power the Arduino |
+| **0.96 Inch OLED Display Module (SPI/I2C 4-Pin, Blue)** | Robocraze | ₹165.00 | $1.73 | [Link](https://robocraze.com/products/0-96in-oled-display-module-4pin?_pos=1&_sid=372808a54&_ss=r) | To show quotes and calm you down before you rage-quit |
+| **ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32 Board** | Robocraze | ₹489.00 | $5.11 | [Link](https://robocraze.com/products/esp32-development-board?_pos=1&_sid=f6630779f&_ss=r) | The proccessor which will control the rage-quit sensors|
+| **USB Type C Vertical Female Breakout - 7Semi** | Robocraze | ₹75.00 | $0.78 | [Link](https://robocraze.com/products/usb-type-c-vertical-female-breakout-7semi?_pos=1&_sid=901702abc&_ss=r) | To power the Arduino |
 | **PCB Fabricated Board** | EasyEDA | ₹2,632.52 | $27.53 | - | Main pcb for the keyboard | 
-| **M5 StickC Speaker Hat (PAM8303)** | - | ₹505.00 | $5.28 | - | To play sound cues or to play inspirational quotes (EX:- "No one can use you if you are useless") |
-| **8 Ohm 0.5W Speaker** | - | ₹54.00 | $0.56 | - | Speaker so that I can hear the quotes |
-| **Tilt Sensor / Vibration Switch Module for Arduino** | - | ₹46.00 | $0.48 | - | To detect when you slam the table |
+| **M5 StickC Speaker Hat (PAM8303)** | - | ₹505.00 | $5.28 | [Link](https://robocraze.com/products/m5-stickc-speaker-hat-pam8303?_pos=1&_sid=4d6d9a8a8&_ss=r) | To play sound cues or to play inspirational quotes (EX:- "No one can use you if you are useless") |
+| **8 Ohm 0.5W Speaker** | - | ₹54.00 | $0.56 | [Link](https://robocraze.com/products/8-ohm-0-25w-speaker?_pos=1&_sid=0ceda62c1&_ss=r) | Speaker so that I can hear the quotes |
+| **Tilt Sensor / Vibration Switch Module for Arduino** | - | ₹46.00 | $0.48 | [Link](https://robocraze.com/search?q=Tilt+Sensor+%2F+Vibration+Switch+Module+for+Arduino&options%5Bprefix%5D=last&type=product) | To detect when you slam the table |
 | **DUROCK MX Hotswap Sockets (Orange, 110pcs)** | - | ₹1,242.00 | $12.99 | - | Sockets to hold the switches |
 | **Gateron Milky Yellow Pro V2 Switches (72pcs, 5-Pin, 50gf)** | Keyboard Store | ₹1,624.45 | $16.99 | - | the switches for typing |
 | **EasyEDA PCB (Custom Board)** | EasyEDA | ₹900.77 | $9.42 | - | Secondary PCB for the screen and sensors |
