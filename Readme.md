@@ -3,9 +3,10 @@
 Hey there! I see you have stumbled upon my README.MD, This is for a program called Stardance by Hack Club. Check it out! (https://stardance.hackclub.com/projects/34484) Prepare to be surprised. Also, this is the best keyboard you have ever seen in your life!
 
 --- 
+<img width="506" height="509" alt="{F825251C-DD93-47AF-B1B7-B5CB71B674A5}" src="https://github.com/user-attachments/assets/06bf164d-f994-4705-b850-fdd1764e54f0" />
 
-<img width="766" height="575" alt="{A8AD33A3-3F69-4490-83F3-E6C8420231EA}" src="https://github.com/user-attachments/assets/dd782047-8537-46b2-8185-c9ff1817fa9e" />
-<img width="765" height="572" alt="{63642544-6DB8-438B-8094-A03F1DD3DFB6}" src="https://github.com/user-attachments/assets/f0f46261-5721-442e-8d4c-e15d4fa46320" />
+<img width="892" height="460" alt="{98A01A9B-60ED-40FC-9F9B-977AF2E66F1B}" src="https://github.com/user-attachments/assets/8b66e977-f6f7-4735-8167-c925c18e2880" />
+
 
 ###  The Overview Of my keyboard
 * Usually, typing on a keyboard has its own feeling; the moment you feel the buttons and how comfy it is plays a crucial role.
@@ -69,6 +70,5 @@ Connect your Yashboard.
 | **EasyEDA PCB (Custom Board)** | EasyEDA | ₹900.77 | $9.42 | - | Secondary PCB for the screen and sensors |
 | **TOTAL** | **—** | **₹9,784.74** | **$102.35** | **—** | Total | 
 
-<img width="506" height="509" alt="{F825251C-DD93-47AF-B1B7-B5CB71B674A5}" src="https://github.com/user-attachments/assets/06bf164d-f994-4705-b850-fdd1764e54f0" />
-
-<img width="892" height="460" alt="{98A01A9B-60ED-40FC-9F9B-977AF2E66F1B}" src="https://github.com/user-attachments/assets/8b66e977-f6f7-4735-8167-c925c18e2880" />
+<img width="766" height="575" alt="{A8AD33A3-3F69-4490-83F3-E6C8420231EA}" src="https://github.com/user-attachments/assets/dd782047-8537-46b2-8185-c9ff1817fa9e" />
+<img width="765" height="572" alt="{63642544-6DB8-438B-8094-A03F1DD3DFB6}" src="https://github.com/user-attachments/assets/f0f46261-5721-442e-8d4c-e15d4fa46320" />
