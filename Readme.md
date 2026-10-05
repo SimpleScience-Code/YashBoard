@@ -56,7 +56,7 @@ Connect your Yashboard.
 
 | Component | Source | Price (INR) | Price (USD) | Link | Reason | 
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **Arduino Leonardo R3 Development Board Compatible** | Robocraze | ₹200.00 | $2.10 | [Link](https://robocraze.com/products/leonardo-r3-board-compatible-with-arduino?_pos=1&_sid=329accbb6&_ss=r) | The main chip, which will handle all the keyboard's inputs |
+| **Arduino Leonardo R3 Development Board Compatible** | Robocraze | ₹485.00 | $5.10 | [Link](https://robocraze.com/products/leonardo-r3-board-compatible-with-arduino?_pos=1&_sid=329accbb6&_ss=r) | The main chip, which will handle all the keyboard's inputs |
 | **1k Ohm Resistor (Pack of 10)** | Robocraze | ₹12.00 | $0.13 | [Link](https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r) | Resistors to protect my components |
 | **0.96 Inch OLED Display Module (SPI/I2C 4-Pin, Blue)** | Robocraze | ₹165.00 | $1.73 | [Link](https://robocraze.com/products/0-96in-oled-display-module-4pin?_pos=1&_sid=372808a54&_ss=r) | To show quotes and calm you down before you rage-quit |
 | **ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32 Board** | Robocraze | ₹489.00 | $5.11 | [Link](https://robocraze.com/products/esp32-development-board?_pos=1&_sid=f6630779f&_ss=r) | The proccessor which will control the rage-quit sensors|
