@@ -1,5 +1,5 @@
 Component,Source,Price (INR),Price (USD),Link,Reason
-Arduino Leonardo R3 Development Board Compatible,Robocraze,200.00,2.10,https://robocraze.com/products/leonardo-r3-board-compatible-with-arduino?_pos=1&_sid=329accbb6&_ss=r,"The main chip which handles all keyboard inputs"
+Arduino Leonardo R3 Development Board Compatible,Robocraze,485.00,5.10,https://robocraze.com/products/leonardo-r3-board-compatible-with-arduino?_pos=1&_sid=329accbb6&_ss=r,"The main chip which handles all keyboard inputs"
 1k Ohm Resistor (Pack of 10),Robocraze,12.00,0.13,https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r,"Resistors to protect components"
 0.96 Inch OLED Display Module SPI/I2C 4-pin Blue,Robocraze,165.00,1.73,https://robocraze.com/products/0-96in-oled-display-module-4pin?_pos=1&_sid=372808a54&_ss=r,"Shows calming quotes before you rage-quit"
 ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32,Robocraze,489.00,5.11,https://robocraze.com/products/esp32-development-board?_pos=1&_sid=f6630779f&_ss=r,"Controls the rage-quit sensor system"
@@ -11,4 +11,4 @@ Tilt Sensor Vibration Switch Module,N/A,46.00,0.48,https://robocraze.com/search?
 DUROCK MX Hotswap Sockets (110 pcs),N/A,1242.00,12.99,(https://www.amazon.com/s?k=DUROCK+MX+Hotswap+Sockets+%28Orange%2C+110pcs&crid=2X7WJOJ3FU4C7&sprefix=%2Caps%2C774&ref=nb_sb_noss,"Hot-swap sockets for mechanical switches"
 Gateron Milky Yellow Pro V2 Switches (72 pcs),Keyboard Store,1624.45,16.99,https://www.amazon.com/Gateron-Milky-Yellow-Linear-Switches/dp/B0DDTKPZ4N/ref=sr_1_6?crid=2GUAM15CWY5MY&dib=eyJ2IjoiMSJ9.9YA_57ZzsyujNqxW-vXOinORa1a9yKalS-OycH2QV6WhNeeWd3DMM4KXViexRSBIZrzODDRiTMoWCFT0S402OVascLv6m8KO5W5APPgPxGxVhmNP_uFdnry_FEF5ka3_HJTo0Rxq1XEc8QMPQHjYj0HdBlRTvIpSCg6Lb3YWPoXNp4Nj0DA_25okkiIkzPRA8pEG77IKXB0Spxj8mxGUZPPqRSbDCwyJB65x_Kc-YEA.f7OUV9wL3LWEQ6jzAaMP_-aBrZ2Y1ytc4sr81WrGRRA&dib_tag=se&keywords=Gateron%2BMilky%2BYellow%2BPro%2BV2%2BSwitches%2B(72pcs%2C%2B5-Pin%2C%2B50gf)&nsdOptOutParam=true&qid=1787478213&sprefix=gateron%2Bmilky%2Byellow%2Bpro%2Bv2%2Bswitches%2B72pcs%2C%2B5-pin%2C%2B50gf%2B%2Caps%2C297&sr=8-6&th=1,"Linear switches for typing"
 EasyEDA PCB (Custom Board),EasyEDA,900.77,9.42,,"Secondary PCB for the display and sensors"
-TOTAL,-,9784.74,102.35,,
+TOTAL,-,18679.74,196.35,,
