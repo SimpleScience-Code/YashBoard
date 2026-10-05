@@ -1,10 +1,10 @@
 Component,Source,Price (INR),Price (USD),Link,Reason
-Arduino Nano R3 Development Board Compatible,Robocraze,200.00,2.10,https://robocraze.com/products/uno-smd-board-compatible-with-arduino?_pos=1&_sid=90bf6cff1&_ss=r,"The main chip which handles all keyboard inputs"
+Arduino Leonardo R3 Development Board Compatible,Robocraze,200.00,2.10,https://robocraze.com/products/leonardo-r3-board-compatible-with-arduino?_pos=1&_sid=329accbb6&_ss=r,"The main chip which handles all keyboard inputs"
 1k Ohm Resistor (Pack of 10),Robocraze,12.00,0.13,https://robocraze.com/products/1k-resistor-pack-of-10?_pos=1&_sid=cc482150b&_ss=r,"Resistors to protect components"
 0.96 Inch OLED Display Module SPI/I2C 4-pin Blue,Robocraze,165.00,1.73,https://robocraze.com/products/0-96in-oled-display-module-4pin?_pos=1&_sid=372808a54&_ss=r,"Shows calming quotes before you rage-quit"
 ESP32 (38 Pin) WiFi + Bluetooth NodeMCU-32,Robocraze,489.00,5.11,https://robocraze.com/products/esp32-development-board?_pos=1&_sid=f6630779f&_ss=r,"Controls the rage-quit sensor system"
 USB Type-C Vertical Female Breakout 7mm,Robocraze,75.00,0.78,(https://robocraze.com/products/usb-type-c-vertical-female-breakout-7semi?_pos=1&_sid=901702abc&_ss=r,"Provides USB-C power to the keyboard"
-PCB Fabricated Board,EasyEDA,2632.52,27.53,,"Main PCB for the keyboard"
+PCB Fabricated Board,EasyEDA,11394,118.33,,"Main PCB for the keyboard"
 M5 StickC Speaker Hat (PAM8303),N/A,505.00,5.28,https://robocraze.com/products/m5-stickc-speaker-hat-pam8303?_pos=1&_sid=4d6d9a8a8&_ss=r,"Plays sound cues and inspirational quotes"
 8 Ohm 0.5W Speaker,N/A,54.00,0.56,https://robocraze.com/products/8-ohm-0-25w-speaker?_pos=1&_sid=0ceda62c1&_ss=r,"Outputs audio from the speaker hat"
 Tilt Sensor Vibration Switch Module,N/A,46.00,0.48,https://robocraze.com/search?q=Tilt+Sensor+%2F+Vibration+Switch+Module+for+Arduino&options%5Bprefix%5D=last&type=product,"Detects desk slams or keyboard rage"
