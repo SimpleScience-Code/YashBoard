@@ -68,7 +68,7 @@ Connect your Yashboard.
 | **DUROCK MX Hotswap Sockets (Orange, 110pcs)** | - | ₹1,242.00 | $12.99 | [Link](https://www.amazon.com/s?k=DUROCK+MX+Hotswap+Sockets+%28Orange%2C+110pcs&crid=2X7WJOJ3FU4C7&sprefix=%2Caps%2C774&ref=nb_sb_noss) | Sockets to hold the switches |
 | **Gateron Milky Yellow Pro V2 Switches (72pcs, 5-Pin, 50gf)** | Keyboard Store | ₹1,624.45 | $16.99 | [Link](https://www.amazon.com/Gateron-Milky-Yellow-Linear-Switches/dp/B0DDTKPZ4N/ref=sr_1_6?crid=2GUAM15CWY5MY&dib=eyJ2IjoiMSJ9.9YA_57ZzsyujNqxW-vXOinORa1a9yKalS-OycH2QV6WhNeeWd3DMM4KXViexRSBIZrzODDRiTMoWCFT0S402OVascLv6m8KO5W5APPgPxGxVhmNP_uFdnry_FEF5ka3_HJTo0Rxq1XEc8QMPQHjYj0HdBlRTvIpSCg6Lb3YWPoXNp4Nj0DA_25okkiIkzPRA8pEG77IKXB0Spxj8mxGUZPPqRSbDCwyJB65x_Kc-YEA.f7OUV9wL3LWEQ6jzAaMP_-aBrZ2Y1ytc4sr81WrGRRA&dib_tag=se&keywords=Gateron%2BMilky%2BYellow%2BPro%2BV2%2BSwitches%2B(72pcs%2C%2B5-Pin%2C%2B50gf)&nsdOptOutParam=true&qid=1787478213&sprefix=gateron%2Bmilky%2Byellow%2Bpro%2Bv2%2Bswitches%2B72pcs%2C%2B5-pin%2C%2B50gf%2B%2Caps%2C297&sr=8-6&th=1) | the switches for typing |
 | **EasyEDA PCB (Custom Board)** | EasyEDA | ₹900.77 | $9.42 | - | Secondary PCB for the screen and sensors |
-| **TOTAL** | **—** | **₹9,784.74** | **$102.35** | **—** | Total | 
+| **TOTAL** | **—** | **₹18679.74** | **196.35** | **—** | Total | 
 
 <img width="766" height="575" alt="{A8AD33A3-3F69-4490-83F3-E6C8420231EA}" src="https://github.com/user-attachments/assets/dd782047-8537-46b2-8185-c9ff1817fa9e" />
 <img width="765" height="572" alt="{63642544-6DB8-438B-8094-A03F1DD3DFB6}" src="https://github.com/user-attachments/assets/f0f46261-5721-442e-8d4c-e15d4fa46320" />
